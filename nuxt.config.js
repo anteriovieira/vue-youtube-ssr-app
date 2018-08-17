@@ -36,5 +36,5 @@ module.exports = {
     },
     vendor: ['~/plugins/vue-youtube']
   },
-  plugins: ['~/plugins/vue-youtube']
+  plugins: ['~/plugins/vue-youtube', '~/plugins/devtools']
 }
